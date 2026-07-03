@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project models Microsoft's $68.7 billion all-cash acquisition of Activision Blizzard (deal announced January 2022, closed October 13, 2023) using the standard investment banking accretion/dilution framework. The goal is to determine whether the acquisition increased or decreased Microsoft's earnings per share (EPS) — the primary financial health check every board reviews before approving a deal.
+This project models Microsoft's $68.7 billion all-cash acquisition of Activision Blizzard (deal announced January 2022, closed October 13, 2023) using accretion/dilution framework. The goal is to determine whether the acquisition increased or decreased Microsoft's earnings per share (EPS).
 
 > **Accretion/dilution analysis** measures whether pro forma EPS (post-deal) exceeds or falls short of standalone EPS (pre-deal). A deal is **accretive** if pro forma EPS > standalone EPS, and **dilutive** if the reverse is true.
 
